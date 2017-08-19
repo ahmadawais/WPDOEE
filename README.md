@@ -20,7 +20,7 @@
 
 # WordPress + DigitalOcean + EasyEngine
 
-These are my slides for WordPress + DigitalOcean Meetup. Learn how you can get started with hosting your WordPress site by yourself with DigitalOcean along with EasyEngine\
+These are my slides for WordPress + DigitalOcean Meetup. Learn how you can get started with hosting your WordPress site by yourself with DigitalOcean along with EasyEngine.
 
 - [Check the slides](http://talkwpdoee.ahmadawais.com/) hosted here on GitHub.
 - [Check the Video](https://ahmda.ws/vid_wpdoee) to learn how to setup WordPress with DigitalOcean + EasyEngine
