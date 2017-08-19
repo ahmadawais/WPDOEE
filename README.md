@@ -22,9 +22,9 @@
 
 These are my slides for WordPress + DigitalOcean Meetup. Learn how you can get started with hosting your WordPress site by yourself with DigitalOcean along with EasyEngine\
 
-- [Check the slides](http://wpdoee.ahmadawais.com/) 
+- [Check the slides](http://talkwpdoee.ahmadawais.com/) 
 
-[![WPDOEE](https://i.imgur.com/kCgYNy1.jpg)](http://wpdoee.ahmadawais.com/)
+[![WPDOEE](https://i.imgur.com/kCgYNy1.jpg)](http://talkwpdoee.ahmadawais.com/)
 
 
 
