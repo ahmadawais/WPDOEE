@@ -20,6 +20,8 @@
 
 # WordPress + DigitalOcean + EasyEngine
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ahmadawais/WPDOEE.svg)](https://greenkeeper.io/)
+
 These are my slides for WordPress + DigitalOcean Meetup. Learn how you can get started with hosting your WordPress site by yourself with DigitalOcean along with EasyEngine.
 
 - [Check the SLIDES](http://talkwpdoee.ahmadawais.com/) hosted here on GitHub.
